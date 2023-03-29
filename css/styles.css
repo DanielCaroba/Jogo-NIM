@@ -1,0 +1,155 @@
+body {
+    /* The background pattern is courtesy of www.svgbackgrounds.com */
+    background-color: #a1f1c5;
+
+}
+    
+#inicio {
+    text-align: center;
+    font-size: 2em;
+}
+    
+#menu-principal {
+    position: relative;
+    background-color: rgb(139, 28, 243);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px; 
+    padding: 3%;
+    margin: auto;  
+    text-align: center;
+    width: 400px;
+}
+
+.botoes {
+    width: auto;
+    font-family: "verdana", sans-serif;
+    cursor: pointer;
+}
+
+.botoes:active {
+    border-style: solid;
+    height: 22px;
+}
+
+#exemplo {
+    display: none;
+}
+
+#regras {
+    font-family: "verdana", sans-serif;
+    font-size: 1.2em;
+    display: none;
+}
+
+#jogar {
+    margin: auto;
+    padding: 10px 50px 10px 50px;
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 10px;
+}
+
+#jogar:hover {
+    background-color: green;
+}
+
+#jogar-regras {
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px 50px 10px 50px;   
+    background-color: rgb(51, 184, 11);
+    color:white;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 10px;
+}
+
+#jogar-regras:hover {
+    background-color: rgb(32, 218, 48);
+}
+
+#jogador1 {
+    padding: 10px 50px 10px 50px;
+    background-color: darkgreen;
+    color:white;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 10px;
+    display: none;
+}
+
+#jogador1:hover {
+    background-color: green;
+}
+    
+#jogador2 {
+    margin-top: 10px;
+    padding: 10px 50px 10px 50px;
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 10px;
+    display: none;
+}
+
+#jogador2:hover {
+    background-color: blue;
+}
+
+#voltar {
+    margin-top: 10px;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 10px;
+    display: none;
+}
+
+#voltar:hover {
+    background-color: rgb(3, 3, 3);
+}
+
+#mensagem-vez {
+    margin: auto;
+    top: 10px;
+    font-family: "verdana", sans-serif;
+    font-size: 2em;
+    display: none;
+}
+
+#mensagem-linha {
+    display: none;
+}
+
+.fosforo { 
+    border-radius: 10px;
+    display: none;
+}
+
+.fosforo:hover {
+    cursor: pointer;
+}
+
+h1 {
+    width: 350px;
+    margin: 0 auto 10px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+h2 {
+    bottom: 0;
+        position: fixed;
+        width: 90%;
+        text-align: left;
+}
