@@ -20,13 +20,12 @@
     Você pode optar por jogar contra um amigo ou contra o computador, sendo que o computador sempre será o Player 1. </dd>
 
   <dt><h3>1.2. Tecnologias Utilizadas</h3></dt>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/HTML-blue"> para instalar as dependências.</dd>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/CSS-red"> como framework para front-end.</dd>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/JS-red"> para facilitar o uso de componentes css da minha página. </dd> 
+    <dd> Utilizei o <img src="https://img.shields.io/badge/HTML-blue"></dd>
+    <dd> Utilizei o <img src="https://img.shields.io/badge/CSS-red"></dd>
+    <dd> Utilizei o <img src="https://img.shields.io/badge/JS-red">  </dd> 
 
   <dt><h3>1.3. Desafios Encontrados</h3></dt>
-    <dd> O principal desafio foi entender a funcionalidade do jogo e aplica-la no DOM. Após entender isso consegui implementar corretamente. Por ser exigido apenas uma página, tive que usar da visibilidade, remoção e adição de elementos HTML para sobrepor algumas partes, como a parte de nomear jogadores e o board do jogo. <br>
-    Em segundo plano, ao implementar o computador tive dificuldades para adapta-lo pela forma com que redigi o meu código. </dd>
+    <dd></dd>
 </dl>
 </div>
 
@@ -35,7 +34,7 @@
 <div id="link">
 <h2>2. Link para Execução </h2>
 <p>&nbsp&nbsp&nbsp&nbsp Para jogar o game você não precisará de nada além de acessar o seguinte link:<br>
-<a href="https://63fa51740e38c14de09d7203--golden-crumble-44490c.netlify.app/">https://63fa51740e38c14de09d7203--golden-crumble-44490c.netlify.app/ </a>.</p>
+<a href="https://nimble-tulumba-202b55.netlify.app/">https://nimble-tulumba-202b55.netlify.app/ </a>.</p>
 
 </div>
 
@@ -62,9 +61,9 @@
   <dt><h3>4.1. Escolha um palito e clique em cima dele</h3></dt>
     <dd>Posicione  o mouse sobre o palito escolhido e clique sobre ele.</dd>
   <dt><h3>4.2. Multiplayer</h3></dt>
-    <dd>No Modo multiplayer você joga com seu/sua colega. Cada um joga uma vez, defina os nomes para ficar mais divertido!</dd>
+    <dd>No Modo multiplayer você joga com seu/sua colega. Cada um joga uma vez.</dd>
   <dt><h3>4.3. Computer</h3></dt>
-    <dd>Contra o computador, o nosso sistema permite apenas que você seja o player 2, então nomeie o player 2, escolha a opção computer e aguarde o computador jogar. </dd>
+    <dd>Contra o computador, o nosso sistema permite apenas que você seja o player 2, escolha a opção computer e aguarde o computador jogar. </dd>
   
 </dl>
 </div>
