@@ -20,9 +20,9 @@
     Você pode optar por jogar contra um amigo ou contra o computador, sendo que o computador sempre será o Player 1. </dd>
 
   <dt><h3>1.2. Tecnologias Utilizadas</h3></dt>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/html-blue"> para instalar as dependências.</dd>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/tailwindcss-^3.2.7-red"> como framework para front-end.</dd>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/tw--elements-^1.0.0--beta1-red"> para facilitar o uso de componentes css da minha página. </dd> 
+    <dd> Utilizei o <img src="https://img.shields.io/badge/HTML-blue"> para instalar as dependências.</dd>
+    <dd> Utilizei o <img src="https://img.shields.io/badge/CSS-red"> como framework para front-end.</dd>
+    <dd> Utilizei o <img src="https://img.shields.io/badge/JS-red"> para facilitar o uso de componentes css da minha página. </dd> 
 
   <dt><h3>1.3. Desafios Encontrados</h3></dt>
     <dd> O principal desafio foi entender a funcionalidade do jogo e aplica-la no DOM. Após entender isso consegui implementar corretamente. Por ser exigido apenas uma página, tive que usar da visibilidade, remoção e adição de elementos HTML para sobrepor algumas partes, como a parte de nomear jogadores e o board do jogo. <br>
