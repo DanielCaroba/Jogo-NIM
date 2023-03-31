@@ -20,7 +20,7 @@
     Você pode optar por jogar contra um amigo ou contra o computador, sendo que o computador sempre será o Player 1. </dd>
 
   <dt><h3>1.2. Tecnologias Utilizadas</h3></dt>
-    <dd> Utilizei o <img src="https://img.shields.io/badge/node-v18.14.0-blue"> para instalar as dependências.</dd>
+    <dd> Utilizei o <img src="https://img.shields.io/badge/html-blue"> para instalar as dependências.</dd>
     <dd> Utilizei o <img src="https://img.shields.io/badge/tailwindcss-^3.2.7-red"> como framework para front-end.</dd>
     <dd> Utilizei o <img src="https://img.shields.io/badge/tw--elements-^1.0.0--beta1-red"> para facilitar o uso de componentes css da minha página. </dd> 
 
