@@ -12,7 +12,7 @@
 
 <div id="descricao">
 <h2>1. Descrição </h2>
-<p>&nbsp&nbsp&nbsp&nbsp Olá! Este é um Jogo NIM desenvolvido por mim</a> <br>
+<p>&nbsp&nbsp&nbsp&nbsp Olá! Este é um Jogo NIM desenvolvido por mim, Daniel Silva Caroba</a> <br>
 &nbsp&nbsp&nbsp&nbsp A disciplina de WEB solicitou este jogo com a ideia de exercitar os conhecimentos de DOM!</p>
 <dl>
   <dt><h3>1.1. O que a Aplicação Faz</h3></dt>
@@ -25,7 +25,7 @@
     <dd> Utilizei o <img src="https://img.shields.io/badge/JS-red">  </dd> 
 
   <dt><h3>1.3. Desafios Encontrados</h3></dt>
-    <dd></dd>
+    <dd>O principal desafio encontrado foi a parte do javascript, acabei tendo muitos problemas na hora de fazer o modo contra o computador.</dd>
 </dl>
 </div>
 
@@ -34,7 +34,8 @@
 <div id="link">
 <h2>2. Link para Execução </h2>
 <p>&nbsp&nbsp&nbsp&nbsp Para jogar o game você não precisará de nada além de acessar o seguinte link:<br>
-<a href="https://nimble-tulumba-202b55.netlify.app/">https://nimble-tulumba-202b55.netlify.app/ </a>.</p>
+<a href="https://nimble-tulumba-202b55.netlify.app/">https://nimble-tulumba-202b55.netlify.app/ </a>.<br>
+  Bom Jogo!!</p>
 
 </div>
 
@@ -47,7 +48,7 @@
   <dt><h3>3.1. Você pode escolher 1 palito por vez.</h3></dt>
   <dt><h3>3.2. Depois de escolhido um palito, todos os que estão acima dele serão eliminados juntos.</h3></dt>
   <dt><h3>3.3. Ao escolher a opção computador, você sempre será o player 2, aguarde o computador jogar!</h3></dt>
-  <dt><h3>3.4. Divirta-se!</h3></dt>
+  <dt><h3>3.4. Bom Jogo!</h3></dt>
   </dt>
 </dl>
 </div>
