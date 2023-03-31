@@ -1,4 +1,4 @@
-# JOGO NIM - Node.js 
+# JOGO NIM
 
 1. [Descrição](#descricao)
 2. [Link para Execução](#link)
