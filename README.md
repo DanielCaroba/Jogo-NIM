@@ -76,7 +76,6 @@
 <p>&nbsp&nbsp&nbsp&nbsp Abaixo irei listar alguns links que utilizei para realizar a atividade.</p>
 <dl>
   <dt><h3>5.1. <a href="https://pt.wikipedia.org/wiki/Nim_(jogo)"> Wikipedia - NIM</a></h3></dt>
-  <dt><h3>5.2. <a href="https://pt.goobix.com/jogos-online/nim/">Jogo NIM - Goobix</a></h3></dt>
 </dl>
 </div>
       
