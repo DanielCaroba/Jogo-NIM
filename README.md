@@ -12,7 +12,7 @@
 
 <div id="descricao">
 <h2>1. Descrição </h2>
-<p>&nbsp&nbsp&nbsp&nbsp Olá! Este é um Jogo NIM desenvolvido por mim, <a href="https://www.linkedin.com/in/franck-allyson-da-silva-rocha-7b9866229/">Franck Allyson da Silva Rocha</a>  ! <br>
+<p>&nbsp&nbsp&nbsp&nbsp Olá! Este é um Jogo NIM desenvolvido por mim</a> <br>
 &nbsp&nbsp&nbsp&nbsp A disciplina de WEB solicitou este jogo com a ideia de exercitar os conhecimentos de DOM!</p>
 <dl>
   <dt><h3>1.1. O que a Aplicação Faz</h3></dt>
